@@ -96,15 +96,11 @@ Even if this example is not the simplest possible, it shows you the potential of
 [LinkedList_get_at](https://github.com/AurelleGit/LibRere/tree/master/OOP/linkedlist#linkedlist_get_at) \
 [LinkedList_get_size](https://github.com/AurelleGit/LibRere/tree/master/OOP/linkedlist#linkedlist_get_size) \
 [LinkedList_insert](https://github.com/AurelleGit/LibRere/tree/master/OOP/linkedlist#linkedlist_insert) \
-[LinkedList_map](https://github.com/AurelleGit/LibRere/tree/master/OOP/linkedlist#linkedlist_map) 
-[LinkedList_print_debug](https://github.com/AurelleGit/LibRere/tree/master/OOP/linkedlist#linkedlist_print_debug) 
-[LinkedList_remove](https://github.com/AurelleGit/LibRere/tree/master/OOP/linkedlist#linkedlist_remove) 
-[LinkedList_remove_range](https://github.com/AurelleGit/LibRere/tree/master/OOP/linkedlist#linkedlist_remove_range) 
+[LinkedList_map](https://github.com/AurelleGit/LibRere/tree/master/OOP/linkedlist#linkedlist_map) \ 
+[LinkedList_print_debug](https://github.com/AurelleGit/LibRere/tree/master/OOP/linkedlist#linkedlist_print_debug) \
+[LinkedList_remove](https://github.com/AurelleGit/LibRere/tree/master/OOP/linkedlist#linkedlist_remove) \
+[LinkedList_remove_range](https://github.com/AurelleGit/LibRere/tree/master/OOP/linkedlist#linkedlist_remove_range) \
 [LinkedList_set](https://github.com/AurelleGit/LibRere/tree/master/OOP/linkedlist#linkedlist_set) 
-
-
-
-
 
 
 ### LinkedList_add
