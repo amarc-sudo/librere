@@ -14,6 +14,7 @@ SRC = sorting/treesort.c \
 	  print/putstr.c \
 	  print/puterr.c \
 	  print/print_address.c \
+	  print/print_null.c	\
 	  string/strlen.c \
 	  string/str_reverse.c \
 	  string/charindex.c \
