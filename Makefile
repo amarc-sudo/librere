@@ -28,10 +28,8 @@ SRC = sorting/treesort.c \
 	  util/intlen.c \
 	  util/intbaselen.c \
 	  OOP/linkedlist/linkedlist.c \
-	  OOP/arraylist/arraylist.c \
-	  
 
-.c.o: 
+.c.o:
 	@$(CC) $(CPPFLAGS) $(CFLAGS) -c $< -o $(<:.c=.o)
 	@echo "\033[1;32m[\033[1;35mLibRere\033[1;32m]\033[1;33m created \033[1;32m$(<:.c=.o)\033[0m"
 
