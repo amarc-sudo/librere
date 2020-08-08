@@ -35,6 +35,7 @@ int 	r_putchar(char c);
 void 	r_putstr(char *string);
 void 	r_puterr(char *string);
 void 	r_print_address(void *memory_location);
+void	r_print_null(char *str);
 
 /* UTIL */
 int 	r_intlen(long number);
